@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  py-echo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-13T20:08:26.407624+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 5243cd0449a062e6d88957f7ee90908ed0a26e8bb09b1cc7da35e7cdb5b8c5ad
+    name: py-echo
+    type: application
+    urls:
+    - https://surote.github.io/sample-git-helm/py-echo-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-13T20:08:26.406692+07:00"
