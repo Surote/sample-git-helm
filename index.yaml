@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - https://surote.github.io/sample-git-helm/py-echo-0.1.0.tgz
-    version: 0.1.0
+    version: 0.1.1
 generated: "2025-05-13T20:08:26.406692+07:00"
